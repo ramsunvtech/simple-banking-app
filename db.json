@@ -26,15 +26,6 @@
       "currency": "SGD",
       "account_number": "945783554",
       "is_active": false
-    },
-    {
-      "id": 4,
-      "account_name": "Bonus Saver Card",
-      "account_type": "cc",
-      "balance": -5021.11,
-      "currency": "SGD",
-      "account_number": "1751355",
-      "is_active": true
     }
   ],
   "transaction1": [
@@ -374,98 +365,6 @@
       "transaction_date": "2020-02-27T09:37:51 -08:00",
       "transaction_processed": true,
       "amount": "$1,189.49"
-    }
-  ],
-  "transaction4": [
-    {
-      "id": 1,
-      "account_id": 4,
-      "description": "Cupidatat enim officia magna laboris enim Lorem elit aute anim duis occaecat. Quis velit Lorem consequat mollit sit amet adipisicing magna esse reprehenderit Lorem irure ipsum. Anim Lorem in consequat occaecat amet dolore eu commodo cillum fugiat minim est. Lorem commodo proident id consequat et voluptate exercitation cillum deserunt. Enim amet ad aute cillum. Nisi sit ullamco anim elit voluptate anim dolor id.\r\n",
-      "from": "Bonus Saver Card - 1751355",
-      "transaction_date": "2019-10-05T06:07:16 -08:00",
-      "transaction_processed": false,
-      "amount": "$1,105.07"
-    },
-    {
-      "id": 2,
-      "account_id": 4,
-      "description": "Laborum laborum incididunt duis mollit consequat fugiat elit minim velit fugiat. Ad ex minim et excepteur ut ea minim non cillum velit aliquip. Irure amet eu consectetur ipsum quis cillum excepteur pariatur magna.\r\n",
-      "from": "Bonus Saver Card - 1751355",
-      "transaction_date": "2019-11-13T03:03:42 -08:00",
-      "transaction_processed": true,
-      "amount": "$31.87"
-    },
-    {
-      "id": 3,
-      "account_id": 4,
-      "description": "Nisi tempor dolore occaecat laboris voluptate consectetur. Nulla enim nulla ex est reprehenderit proident cillum amet tempor sit aliqua in. Officia mollit consectetur velit id est cillum veniam aute sint sint. Irure cupidatat aliqua eu incididunt quis. Culpa cillum tempor duis excepteur. Tempor culpa sint nulla anim fugiat non qui in ipsum commodo nisi voluptate ex voluptate.\r\n",
-      "from": "Bonus Saver Card - 1751355",
-      "transaction_date": "2019-05-08T10:54:42 -08:00",
-      "transaction_processed": false,
-      "amount": "$1,349.22"
-    },
-    {
-      "id": 4,
-      "account_id": 4,
-      "description": "Anim tempor commodo esse velit aliquip ad ex amet consequat qui aute magna. Enim officia est elit dolor quis magna enim deserunt nulla fugiat culpa occaecat enim irure. Quis et et dolor deserunt. Cupidatat pariatur id ullamco voluptate aute enim minim incididunt consectetur nostrud velit ullamco deserunt. Lorem mollit mollit minim ad ex culpa dolor sunt occaecat laboris veniam. Voluptate excepteur sunt culpa sint.\r\n",
-      "from": "Bonus Saver Card - 1751355",
-      "transaction_date": "2019-10-03T05:04:45 -08:00",
-      "transaction_processed": true,
-      "amount": "$133.72"
-    },
-    {
-      "id": 5,
-      "account_id": 4,
-      "description": "Culpa elit ad consectetur ad in excepteur magna quis quis laborum reprehenderit. Reprehenderit occaecat veniam incididunt sit do consequat voluptate. Ut magna amet cillum reprehenderit sit duis pariatur irure. Minim officia sint pariatur consequat elit anim culpa do anim. Do cillum aliqua incididunt excepteur proident. Nisi proident esse ad duis nostrud aliquip occaecat labore esse anim ea culpa. Elit magna id laborum consequat excepteur esse.\r\n",
-      "from": "Bonus Saver Card - 1751355",
-      "transaction_date": "2019-06-21T08:26:33 -08:00",
-      "transaction_processed": true,
-      "amount": "$559.65"
-    },
-    {
-      "id": 6,
-      "account_id": 4,
-      "description": "Consectetur irure sit aute mollit est fugiat officia nisi anim adipisicing ullamco. Cupidatat ullamco in amet incididunt proident velit consectetur sit ea exercitation. Occaecat consectetur quis esse laboris id ea qui pariatur in mollit duis consequat laboris.\r\n",
-      "from": "Bonus Saver Card - 1751355",
-      "transaction_date": "2019-02-08T07:01:24 -08:00",
-      "transaction_processed": true,
-      "amount": "$1,177.24"
-    },
-    {
-      "id": 7,
-      "account_id": 4,
-      "description": "Veniam consequat mollit quis nulla laboris est et irure. Qui adipisicing et veniam magna labore. Proident esse sint magna ullamco aute tempor fugiat sint officia consequat consequat qui sit. Anim est velit ad irure deserunt.\r\n",
-      "from": "Bonus Saver Card - 1751355",
-      "transaction_date": "2019-03-03T05:07:47 -08:00",
-      "transaction_processed": true,
-      "amount": "$23.75"
-    },
-    {
-      "id": 8,
-      "account_id": 4,
-      "description": "Aute commodo proident culpa id anim. In aute enim ex proident sint magna commodo culpa consequat proident adipisicing esse. Et et in do exercitation et ad. Sint in tempor ipsum aliquip excepteur consequat.\r\n",
-      "from": "Bonus Saver Card - 1751355",
-      "transaction_date": "2019-01-28T06:35:11 -08:00",
-      "transaction_processed": true,
-      "amount": "$217.06"
-    },
-    {
-      "id": 9,
-      "account_id": 4,
-      "description": "Commodo adipisicing ullamco in do quis nisi aliquip Lorem Lorem ad. Mollit deserunt laboris qui Lorem dolor ad id. Labore ad deserunt enim qui. Incididunt adipisicing dolore exercitation qui ea in ea esse id. Occaecat exercitation culpa officia aliquip.\r\n",
-      "from": "Bonus Saver Card - 1751355",
-      "transaction_date": "2019-04-17T10:08:17 -08:00",
-      "transaction_processed": true,
-      "amount": "$343.72"
-    },
-    {
-      "id": 10,
-      "account_id": 4,
-      "description": "Magna sunt id nisi officia nulla ut labore excepteur magna laborum velit est adipisicing. Nostrud magna nisi duis sint in duis consequat commodo dolor eu non tempor in. Ea nulla officia dolor est incididunt nisi. Minim eu eiusmod nostrud nostrud consequat enim dolor consequat occaecat ea est aliqua officia excepteur. Qui fugiat et adipisicing amet aliqua sit anim do. Id esse eu amet cupidatat qui.\r\n",
-      "from": "Bonus Saver Card - 1751355",
-      "transaction_date": "2019-08-10T10:50:53 -08:00",
-      "transaction_processed": true,
-      "amount": "$1,362.03"
     }
   ]
 }
