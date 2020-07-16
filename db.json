@@ -23,7 +23,7 @@
     {
       "id": 1,
       "account_id": 1,
-      "description": "Dolore quis ad et mollit nisi excepteur ex anim fugiat quis ipsum exercitation proident cupidatat. Quis anim incididunt excepteur cupidatat aliquip nulla reprehenderit velit. Dolor pariatur velit consectetur dolore aliquip reprehenderit non aliqua consectetur. Sunt aliquip consequat et in eu aute.\r\n",
+      "description": "Dolore quis ad et mollit nisi excepteur ex anim fugiat quis ipsum exercitation proident cupidatat. Quis anim incididunt excepteur cupidatat aliquip nulla reprehenderit velit. Dolor pariatur velit consectetur dolore aliquip reprehenderit non aliqua consectetur. Sunt aliquip consequat et in eu aute.",
       "from": "Savings Account - 342423455344",
       "transaction_date": "2019-06-08T03:37:28 -08:00",
       "transaction_processed": true,
@@ -32,7 +32,7 @@
     {
       "id": 2,
       "account_id": 1,
-      "description": "Nulla fugiat in enim aute ut deserunt aute in consequat pariatur aliquip laboris incididunt. Sunt ullamco labore sunt adipisicing. Aliquip proident elit aute qui sunt anim. Qui adipisicing ex officia aliquip incididunt est duis veniam.\r\n",
+      "description": "Nulla fugiat in enim aute ut deserunt aute in consequat pariatur aliquip laboris incididunt. Sunt ullamco labore sunt adipisicing. Aliquip proident elit aute qui sunt anim. Qui adipisicing ex officia aliquip incididunt est duis veniam.",
       "from": "Savings Account - 342423455344",
       "transaction_date": "2019-08-08T04:40:51 -08:00",
       "transaction_processed": true,
@@ -43,7 +43,7 @@
     {
       "id": 1,
       "account_id": 2,
-      "description": "Anim magna quis occaecat irure veniam cillum dolore incididunt et ex qui eiusmod enim. Pariatur nulla excepteur adipisicing amet. Nostrud labore aute voluptate est id ipsum magna amet laboris elit veniam. Officia voluptate elit ex in ex magna minim.\r\n",
+      "description": "Anim magna quis occaecat irure veniam cillum dolore incididunt et ex qui eiusmod enim. Pariatur nulla excepteur adipisicing amet. Nostrud labore aute voluptate est id ipsum magna amet laboris elit veniam. Officia voluptate elit ex in ex magna minim.",
       "from": "Bonus Savings Account - 156478245",
       "transaction_date": "2019-12-03T12:56:45 -08:00",
       "transaction_processed": true,
@@ -52,7 +52,7 @@
     {
       "id": 2,
       "account_id": 2,
-      "description": "Quis tempor fugiat id nostrud et. Dolor culpa amet enim nulla. Excepteur eiusmod qui veniam anim amet amet. Dolor aliqua est exercitation sunt nulla dolore nostrud.\r\n",
+      "description": "Quis tempor fugiat id nostrud et. Dolor culpa amet enim nulla. Excepteur eiusmod qui veniam anim amet amet. Dolor aliqua est exercitation sunt nulla dolore nostrud.",
       "from": "Bonus Savings Account - 156478245",
       "transaction_date": "2019-08-28T09:13:42 -08:00",
       "transaction_processed": true,
