@@ -4,7 +4,7 @@
   "description": "Banking Web Application",
   "scripts": {
     "start": "webpack-dev-server --open --mode development",
-    "build": "webpack --mode production",
+    "build": "rm -rf docs && webpack --mode production --output-path docs",
     "mock:server": "json-server --middlewares mock-server/service/middleware.js --watch mock-server/service/api.js --routes mock-server/service/endpoints.json",
     "test": "jest --env=jsdom --coverage"
   },
