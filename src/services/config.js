@@ -4,6 +4,6 @@ const getApiUrl = (apiName) => {
 };
 
 export const endPoints = {
-  accounts: () => getApiUrl('bankingApi/accounts'),
-  transactions: (id) => getApiUrl(`bankingApi/transaction/${id}`),
+  accounts: () => getApiUrl('accounts'),
+  transactions: (id) => getApiUrl(`transaction/${id}`),
 };

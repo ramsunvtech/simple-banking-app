@@ -6,6 +6,6 @@
     "paths": { 
     }
   },
-  "exclude": ["node_modules", "public"],
+  "exclude": ["node_modules", "docs"],
   "include": ["./src/**/*"]
 }
