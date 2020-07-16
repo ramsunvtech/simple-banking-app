@@ -1,0 +1,7 @@
+{
+  "/bankingApi/accounts": "/accounts",
+  "/bankingApi/transaction/1": "/transaction1",
+  "/bankingApi/transaction/2": "/transaction2",
+  "/bankingApi/transaction/3": "/transaction3",
+  "/bankingApi/transaction/4": "/transaction4"
+}

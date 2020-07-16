@@ -1,0 +1,57 @@
+{
+  "name": "banking-web",
+  "version": "0.1.0",
+  "description": "Banking Web Application",
+  "scripts": {
+    "start": "webpack-dev-server --open --mode development",
+    "build": "webpack --mode production",
+    "mock:server": "json-server --middlewares mock-server/service/middleware.js --watch mock-server/service/api.js --routes mock-server/service/endpoints.json",
+    "test": "jest --env=jsdom --coverage"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "banking",
+    "accounts"
+  ],
+  "author": "Venkatraman <ramsunvtech@gmail.com> (https://in.linkedin.com/in/venkatarchitect)",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "@material-ui/core": "^4.10.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/styles": "^4.10.0",
+    "axios": "^0.19.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/preset-react": "^7.9.4",
+    "@testing-library/jest-dom": "^5.8.0",
+    "@testing-library/react": "^10.0.4",
+    "babel-loader": "^8.1.0",
+    "copy-webpack-plugin": "^6.0.2",
+    "css-loader": "^3.5.3",
+    "file-loader": "^6.0.0",
+    "html-webpack-plugin": "^4.3.0",
+    "jest": "^26.0.1",
+    "json-server": "^0.16.1",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "^@bankingApp/ui-components(.*)$": "<rootDir>/src/ui-components$1",
+      "^@bankingApp/domain-components(.*)$": "<rootDir>/src/domain-components$1",
+      "^@bankingApp/services(.*)$": "<rootDir>/src/services$1"
+    }
+  }
+}
