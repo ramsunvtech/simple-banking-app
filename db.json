@@ -19,7 +19,7 @@
       "is_active": true
     }
   ],
-  "transaction1": [
+  "transaction/1": [
     {
       "id": 1,
       "account_id": 1,
@@ -39,7 +39,7 @@
       "amount": "$339.36"
     }
   ],
-  "transaction2": [
+  "transaction/2": [
     {
       "id": 1,
       "account_id": 2,
