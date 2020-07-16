@@ -30,7 +30,7 @@ function App() {
     }}>
       <ThemeProvider theme={theme}>
         <CssBaseline>
-          <Router history={browserHistory}>
+          <Router history={browserHistory} basename="/simple-banking-app">
             <Routes />
           </Router>
         </CssBaseline>
